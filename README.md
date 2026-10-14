@@ -1,4 +1,4 @@
-# Exercícios de Programação
+#Desenvolver Exercícios de Programação
 
 Repositório em evolução com soluções de exercícios de programação resolvidos em diferentes linguagens.
 

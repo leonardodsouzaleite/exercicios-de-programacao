@@ -11,5 +11,6 @@ public class Main {
 
     System.out.printf("MEDIA = %.5f\n", media);
 
+    input.close();
   }
 }
